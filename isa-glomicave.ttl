@@ -25,7 +25,7 @@
                                       dcterms:issued "2022-04-05"^^xsd:date ;
                                       owl:priorVersion <https://github.com/ISA-tools/linkedISA-ontologies> ;
                                       dcterms:license <https://opensource.org/licenses/ISC> ;
-                                      dcterms:source <https://github.com/aolite/isa-glomicave> ;
+                                      dcterms:source <https://github.com/ColoDidac/isa-glomicave> ;
                                       vann:preferredNamespacePrefix "glomicave" ;
                                       vann:preferredNamespaceUri "https://w3id.org/def/isa-glomicave/" .
 
